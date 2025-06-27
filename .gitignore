@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.log
+*.csv
+*.jpg
+*.png
+*.mp4
+venv/
+*.onnx
+*.caffemodel
+.idea/
+.DS_Store
+models/
